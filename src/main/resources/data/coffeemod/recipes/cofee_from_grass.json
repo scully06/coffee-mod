@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " B ",
+    " G "
+  ],
+  "key": {
+    "#": {
+      "item":"minecraft:water_bucket"
+    },
+    "B": {
+      "item":"minecraft:cocoa_beans"
+    },
+    "G": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "item": "coffeemod:coffee"
+  }
+}
